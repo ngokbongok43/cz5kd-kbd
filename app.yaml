@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: cz5kd-kbd
+owner: ngokbongok43
+package: .
